@@ -9,6 +9,9 @@ collections:
     folder: 'content/posts'
     create: true
     slug: '{{categories}}/{{year}}-{{month}}-{{day}}-{{slug}}'
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}'
     editor:
       preview: false
     fields:
