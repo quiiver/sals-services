@@ -4,17 +4,22 @@ backend:
 media_folder: images
 public_folder: /assets/images
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'goods_and_news'
+    label: 'Goods and News'
     folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{categories}}/{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Author Image', name: 'authorimage', widget: 'image' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Category', name: 'categories', widget: 'select', options: ["News", "Goods"] }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
