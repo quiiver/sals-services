@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
-media_folder: images
+  branch: main 
+media_folder: assets/images
 public_folder: /assets/images
 collections:
   - name: 'goods_and_news'
