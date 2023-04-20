@@ -8,4 +8,4 @@ featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
 ---
-A set of *flower* beads in many parts of the jewelry, any color yarn wrap around you could imagine. Contact Sal’s Services “what if, flowering set” for a photo!
+A set of *flower* beads in many parts of the jewelry, any color yarn wrap around you could imagine. Contact Sal’s Services “what if, spring flowering set” for a photo!
