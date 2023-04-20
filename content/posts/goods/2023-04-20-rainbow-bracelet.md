@@ -8,4 +8,4 @@ featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
 ---
-Contact for order only $2!
+Contact for order only $2! Contact Sal’s Services for a photo of it!
