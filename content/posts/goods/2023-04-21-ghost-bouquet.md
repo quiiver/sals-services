@@ -10,4 +10,4 @@ featured_image: /assets/images/holland-lop.jpeg
 authorimage: /assets/images/holland-lop.jpeg
 author: E
 ---
-A erily luminescent mixed media, for $4.
+A erily luminescent mixed media, for $4. Contact sals services “what if, ghost” for a photo.
