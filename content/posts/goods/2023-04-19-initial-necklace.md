@@ -8,4 +8,4 @@ featured_image: /assets/images/holland-lop.jpeg
 authorimage: /assets/images/holland-lop.jpeg
 author: E
 ---
-Have you ever wanted a necklace well here's your opportunity. Costs $1 please contact for details. Contact Sal’s Services “ what if, initial necklace” for a photo
+Have you ever wanted a necklace where you can show of your name? Here it is! Costs $1. Contact Sal’s Services “ what if, initial necklace” for a photo
