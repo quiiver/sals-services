@@ -8,4 +8,4 @@ featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
 ---
-A fresh quartz from lake Wichita, polished and cleaned and made into a ring! Do you like subtle jewelr? Then buy this for $4!
+A fresh quartz from lake Wichita, polished and cleaned and made into a ring! Do you like subtle jewelr? Then buy this for $6!
