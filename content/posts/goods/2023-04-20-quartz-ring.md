@@ -7,5 +7,6 @@ summary: Beautiful local quartz on a lovely ring
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 6
 ---
-A fresh quartz from lake Wichita, polished and cleaned and made into a ring! Do you like subtle jewelry? Then buy this for $6!
+A fresh quartz from lake Wichita, polished and cleaned and made into a ring! Do you like subtle jewelry? Then buy this!
