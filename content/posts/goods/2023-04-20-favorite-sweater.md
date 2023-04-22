@@ -7,5 +7,6 @@ summary: A cozy art piece in digital or physical print.
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 5
 ---
-This art piece will remind you of fuzzy sweaters, and a cup of cocoa by the fire. $5 to get.
+This art piece will remind you of fuzzy sweaters, and a cup of cocoa by the fire.
