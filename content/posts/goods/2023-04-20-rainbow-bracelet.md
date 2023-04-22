@@ -7,5 +7,6 @@ summary: A beautifully woven bracelet with colors from red to violet!
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 2
 ---
-Contact for order only $2! Contact Sal’s Services “what if, rainbow bracelet” for a photo of it!
+Contact Sal’s Services “what if, rainbow bracelet” for a photo of it!
