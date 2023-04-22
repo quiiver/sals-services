@@ -7,5 +7,6 @@ summary: A piece of art representing infinity love & seeing
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 2
 ---
-Do you have troub seeing the truth, this piece will help you through. Feel love. $2.
+Do you have troub seeing the truth, this piece will help you through. Feel love.
