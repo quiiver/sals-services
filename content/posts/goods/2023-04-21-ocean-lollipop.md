@@ -7,5 +7,6 @@ summary: A wavy piece of art, destined to make your heart happy. Just like a lol
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 6
 ---
  Digital or physical, this piece is a creamy blue background, and a beautiful piece of magic in the front! Contact sals services “what if, ocean lollipop.” For a photo.
