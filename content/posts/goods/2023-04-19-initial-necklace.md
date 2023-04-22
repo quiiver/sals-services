@@ -7,5 +7,6 @@ summary: Its an awesome necklace that you can customize
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 1
 ---
-Have you ever wanted a necklace where you can show of your name? Here it is! Costs $1. Contact Sal’s Services “ what if, initial necklace” for a photo
+Have you ever wanted a necklace where you can show of your name? Here it is! Contact Sal’s Services “ what if, initial necklace” for a photo
