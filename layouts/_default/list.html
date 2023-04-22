@@ -13,7 +13,11 @@
             {{- . -}}
         </div>
         {{ end }}
-        {{ partial "posts-template.html" . }}
+        {{ if eq .Title "Testimonials" }}
+          {{ partial "testimonials-template.html" . }}
+        {{ else }}
+          {{ partial "posts-template.html" . }}
+        {{ end }}
     </article>
     <div class="max-w-xl mx-auto my-16">
         {{ partial "pagination" . }}

@@ -11,7 +11,7 @@ Please contact us with any questions you might have. Thank you!
 <!-- @format -->
 
 <section class="lg:pb-24">
-  <div class="max-w-screen-md px-4 mx-auto">
+  <div class="max-w-screen-md px-4 mx-auto" x-data="{subject: 'Regarding: ' + new URLSearchParams(location.search).get('subject')}">
       <form name="contact" data-netlify="true" class="space-y-8">
           <div class="my-4">
               <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Your Email:</strong></label>
@@ -19,7 +19,7 @@ Please contact us with any questions you might have. Thank you!
           </div>
           <div class="my-4">
               <label for="subject" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Subject:</strong></label>
-              <input type="text" name="subject" id="subject" class="block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-sm text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Let us know how we can help you" required>
+              <input type="text" x-model="subject" name="subject" id="subject" class="block w-full p-3 text-gray-900 border border-gray-300 rounded-lg shadow-sm text-md bg-gray-50 focus:ring-indigo-500 focus:border-indigo-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Let us know how we can help you" required>
           </div>
           <div class="my-4 sm:col-span-2">
               <label for="message" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-400"><strong>Your message:</strong></label>
