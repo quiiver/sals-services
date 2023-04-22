@@ -7,5 +7,6 @@ summary: A pattern/color of your choice on a bandana.
 featured_image: ../assets/images/holland-lop.jpeg
 authorimage: ../assets/images/holland-lop.jpeg
 author: E
+price: 5
 ---
-A great way to express yourself! $5.
+A great way to express yourself!
