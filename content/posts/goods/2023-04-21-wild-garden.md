@@ -7,5 +7,6 @@ summary: A piece of wild art.
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 5
 ---
-Digital or physical, contact sals services “what if, wild garden.” for a photo. $5.
+Digital or physical, contact sals services “what if, wild garden.” for a photo.
