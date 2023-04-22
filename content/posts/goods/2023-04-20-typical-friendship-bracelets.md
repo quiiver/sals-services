@@ -7,5 +7,6 @@ summary: You pick your color and a friends color
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 1
 ---
-A great duo and have fun with your friends! $0.50!
+A great duo and have fun with your friends!
