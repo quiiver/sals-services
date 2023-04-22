@@ -25,6 +25,14 @@
       {{ end }}
       {{ end }}
     </div>
+    {{ if eq .Params.categories "Goods" }}
+    <div class="max-w-2xl p-6 mx-auto">
+      <span class="text-lg font-bold">Price $2</span>
+      <a class="inline-flex items-center h-8 p-4 m-2 font-bold text-md text-emerald-200 transition-colors duration-150 bg-cyan-600 rounded-lg focus:shadow-outline hover:bg-cyan-800" href="/contact">
+        Please contact to purchase!
+      </a>
+    </div>
+    {{ end }}
   </div>
   <!-- " {{.Content}}" pulls from the markdown content of the corresponding _index.md -->
   <div class="max-w-2xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
