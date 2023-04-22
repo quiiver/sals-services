@@ -7,5 +7,6 @@ summary: A random watercolor with vibrant colors, physical.
 featured_image: images/holland-lop.jpeg
 authorimage: images/holland-lop.jpeg
 author: E
+price: 2
 ---
-you don’t get to pick this one! It will be a watercolor that you cannot replace, because there isn’t another! $2!
+you don’t get to pick this one! It will be a watercolor that you cannot replace, because there isn’t another!
