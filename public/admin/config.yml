@@ -1,0 +1,40 @@
+backend:
+  name: git-gateway
+  branch: main 
+media_folder: assets/images
+public_folder: /assets/images
+collections:
+  - name: 'goods_and_news'
+    label: 'Goods and News'
+    folder: 'content/posts'
+    create: true
+    slug: '{{categories}}/{{year}}-{{month}}-{{day}}-{{slug}}'
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Category', name: 'categories', widget: 'select', options: ["News", "Goods"] }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Summary', name: 'summary', widget: 'string' }
+      - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+      - { label: 'Author Image', name: 'authorimage', widget: 'image' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - label: 'About'
+        name: 'about'
+        file: 'content/about.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Description', name: 'description', widget: 'string' }
+          - { label: 'Published', name: 'published', widget: 'boolean' }
+          - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
